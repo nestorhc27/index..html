@@ -14,12 +14,8 @@
 <P>PROFR. RAMIRO REYNA TORRES 
 <P>602
 <P>
-<BODY>
 <img src="cebcedrallogo.jpg">
 
-
-</BODY>
-</HTML>
  <ul>
           <a href="pagina1.html">pagina 1</a>
           <a href="pagina 2.html">pagina 2</a>
