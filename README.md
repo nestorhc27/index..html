@@ -24,8 +24,8 @@
 </BODY>
 </HTML>
  <ul>
-          <a href="pagina1.html">pagina 1</a></li>
-          <a href="pagina 2.html">pagina 2</a></li>
-          <a href="pagina 3.html">pagina 3</a></li>
-          <a href="pagina 4.html">pagina 4</a></li> 
-          <a href="pagina 5.html">pagina 5</a></li>
+          <a href="pagina1.html">pagina 1</a>
+          <a href="pagina 2.html">pagina 2</a>
+          <a href="pagina 3.html">pagina 3</a>
+          <a href="pagina 4.html">pagina 4</a> 
+          <a href="pagina 5.html">pagina 5</a>
